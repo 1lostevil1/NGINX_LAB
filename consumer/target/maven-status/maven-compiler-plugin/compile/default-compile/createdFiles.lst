@@ -1,0 +1,5 @@
+com/example/listenner/MessageConsumer.class
+com/example/ConsumerApplication.class
+com/example/repository/MessageRepository.class
+com/example/config/RabbitConfig.class
+com/example/entity/MessageEntity.class

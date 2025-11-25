@@ -1,0 +1,4 @@
+com/example/controller/MessageController.class
+com/example/ProducerApplication.class
+com/example/config/RabbitConfig.class
+com/example/service/MessageService.class

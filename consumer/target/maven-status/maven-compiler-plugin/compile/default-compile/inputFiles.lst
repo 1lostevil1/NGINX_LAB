@@ -1,0 +1,5 @@
+/Users/dmi.kireev/IdeaProjects/NGINX_LAB/consumer/src/main/java/com/example/config/RabbitConfig.java
+/Users/dmi.kireev/IdeaProjects/NGINX_LAB/consumer/src/main/java/com/example/entity/MessageEntity.java
+/Users/dmi.kireev/IdeaProjects/NGINX_LAB/consumer/src/main/java/com/example/repository/MessageRepository.java
+/Users/dmi.kireev/IdeaProjects/NGINX_LAB/consumer/src/main/java/com/example/listenner/MessageConsumer.java
+/Users/dmi.kireev/IdeaProjects/NGINX_LAB/consumer/src/main/java/com/example/ConsumerApplication.java
